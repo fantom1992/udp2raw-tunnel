@@ -1,0 +1,5 @@
+sdk/
+openwrt-sdk-*.tar.zst
+*.o
+udp2raw_cross
+udp2raw_arm
